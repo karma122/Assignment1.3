@@ -1,4 +1,4 @@
-By: Jeshal Mohapatra, Krish Tiwari, Varsha Iynger, Hugo Vides
+By: Jeshal Mohapatra, Krish Tiwari, Varsha Iyenger, Hugo Vides
 QUESTIONS TO ANSWER
 
 Q1)
